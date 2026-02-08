@@ -41,6 +41,7 @@
 
 body {
   font-family: "Inter", "Segoe UI", sans-serif;
+  background-color: var(--bg);
   background: linear-gradient(160deg, rgba(12, 15, 24, 0.98), rgba(7, 10, 18, 0.98)),
     radial-gradient(circle at 20% 20%, rgba(91, 124, 255, 0.18), transparent 38%),
     radial-gradient(circle at 80% 10%, rgba(124, 108, 255, 0.16), transparent 36%),
