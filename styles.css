@@ -383,6 +383,15 @@ textarea {
   z-index: 2;
 }
 
+textarea:focus,
+select:focus,
+input[type="range"]:focus,
+.btn:focus-visible {
+  outline: 2px solid rgba(91, 124, 255, 0.55);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 6px rgba(91, 124, 255, 0.15);
+}
+
 .btn {
   cursor: pointer;
   font-weight: 600;

@@ -65,3 +65,7 @@ Crafted with care by **Vedant Kasaudhan**
 
 ---
 If you like the project, give it a ⭐ on GitHub!
+<<<<<<< HEAD
+=======
+
+>>>>>>> 68eab487795e18b5daae32b338d6db289996af7a
